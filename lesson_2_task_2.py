@@ -5,7 +5,7 @@ def is_year_leap(year):
         return False
 
 
-year = 2022
+year = 2000
 result = is_year_leap(year)
 
 
